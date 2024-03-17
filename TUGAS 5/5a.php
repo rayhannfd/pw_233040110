@@ -10,7 +10,7 @@ $mahasiswa = [
     [//2.    
         "nama" => "Muhammad Septiadi Ardiansyah",
         "npm" => "233040181",
-        "email" => "muhammadseptiadi.233020@mail.unpas.ac.id",
+        "email" => "muhammadseptiadi.233020181@mail.unpas.ac.id",
         "fakultas" => "Teknik",
         "prodi" => "Teknik Informatika"
     ],
